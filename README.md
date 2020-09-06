@@ -24,6 +24,7 @@ we already have the data for that particular line of input.
 You can re-start the process at any time by removing the file
 geodata.sqlite
 
+
 Run the geoload.py program.   This program will read the input
 lines in where.data and for each line check to see if it is already
 in the database and if we don't have the data for the location,
@@ -46,4 +47,5 @@ gecoding API returned for the user-entered input.  If you
 cannot see any data when you open the where.html file, you might
 want to check the JavaScript or developer console for your browser.
 
+![alt text](https://mega.nz/file/nuYhCYQJ#xFgPQkqOpdbVnrIMhI9jUIyqAOzC0JvxQONtTEy74q0)
 

@@ -47,5 +47,7 @@ gecoding API returned for the user-entered input.  If you
 cannot see any data when you open the where.html file, you might
 want to check the JavaScript or developer console for your browser.
 
-![alt text](https://mega.nz/file/nuYhCYQJ#xFgPQkqOpdbVnrIMhI9jUIyqAOzC0JvxQONtTEy74q0)
+![alt text](https://github.com/xoxics/GeoLocator/blob/master/geoload_high.jpg?raw=true)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/xoxics/GeoLocator/blob/master/where_location.jpg?raw=true)
 

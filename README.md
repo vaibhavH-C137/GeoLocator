@@ -21,6 +21,8 @@ geocoded response and store it in a database (geodata.sqlite).
 Before we use the geocoding API, we simply check to see if
 we already have the data for that particular line of input.
 
+![alt text](https://github.com/xoxics/GeoLocator/blob/master/geoload_high.jpg?raw=true)
+
 You can re-start the process at any time by removing the file
 geodata.sqlite
 
@@ -34,7 +36,7 @@ the database.
 The geoload.py can be stopped at any time, and there is a counter
 that you can use to limit the number of calls to the geocoding
 API for each run.
-
+![alt text](https://github.com/xoxics/GeoLocator/blob/master/geodump_high.jpg?raw=true)
 Once you have some data loaded into geodata.sqlite, you can
 visualize the data using the (geodump.py) program.  This
 program reads the database and writes tile file (where.js)
@@ -47,7 +49,6 @@ gecoding API returned for the user-entered input.  If you
 cannot see any data when you open the where.html file, you might
 want to check the JavaScript or developer console for your browser.
 
-![alt text](https://github.com/xoxics/GeoLocator/blob/master/geoload_high.jpg?raw=true)
-![alt text](https://github.com/xoxics/GeoLocator/blob/master/geodump_high.jpg?raw=true)
+
 ![alt text](https://github.com/xoxics/GeoLocator/blob/master/where_location.jpg?raw=true)
 
